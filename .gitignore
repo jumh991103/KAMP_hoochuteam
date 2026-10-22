@@ -1,0 +1,6 @@
+# 원본 데이터는 용량 문제(GitHub 100MB 제한)로 저장소에 포함하지 않음 — README.md 참고
+**/data/raw/*
+!**/data/raw/.gitkeep
+
+# 원본 데이터가 포함된 제출용 압축본
+소스코드_후추팀.zip
